@@ -124,7 +124,7 @@ private static void captureAndWriteToFile(double xResult, double yResult,
 
 	  FileWriter fw = new FileWriter(out_f,true);
 	  BufferedWriter bw = new BufferedWriter(fw);
-		// concatonation of formatted write
+		// Concatenation of formatted write
 	  bw.write(String.format("%6.2f",xResult) + ", " +
 		String.format("%6.2f",yResult) + ", " + 
 			  String.format("%6.2f",coordValue));
