@@ -25,7 +25,7 @@
 *  ============================================================================
 *  Updates:     N/A (reserved for any modifications)
 *  ============================================================================
-*  In Progress: 1.1  Create Error Checking (Priority 1)
+*  In Progress: 1.1  Create Error Checking (Priority 1)(Add Versioning(Git)
 *               1.2  Optimize / Create modular components
 *               1.3  Update smoother IO transitions / (File IO, Args)
 *               1.4  Add potential Multithreaded programming for dual core
